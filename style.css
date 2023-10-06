@@ -1,0 +1,63 @@
+.post{
+    width: 500px;
+    margin: auto;
+    background: white;
+}
+
+body{
+    background: black;
+}
+
+img{
+    max-width: 100%;
+}
+
+
+#id-a{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.b-class{
+    display: flex;
+     
+        
+}
+.r-class{
+    display: flex;
+    flex-direction: column;
+}
+
+.fa-html5{
+    font-size: 30px;
+}
+.titulo {
+    font-weight: bold;
+}
+.fa-solid{
+    display: flex;
+    font-size: 30px; 
+        
+}
+.fa-heart{
+    font-size: 30px;
+}
+.fa-comment{
+    font-size: 30px;
+}
+.fa-paper-plane{
+    font-size: 30px;
+}
+.fa-bookmark{
+    font-size: 30px;
+}
+#b-id{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+span{
+    font-weight: bold;
+}
